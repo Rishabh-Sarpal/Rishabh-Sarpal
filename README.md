@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 💻 I am in my 7th semester of a BCA + MCA dual degree at Amity University, building strong skills in Java, Python, C/C++, SQL, and web development.<br>🚀 Passionate about software development, data science, and cloud computing, I enjoy solving real-world problems through technology.<br>🌱 I am seeking opportunities to learn, contribute, and grow as an aspiring IT professional.
 
 
